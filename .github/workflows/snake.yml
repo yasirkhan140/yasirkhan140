@@ -1,19 +1,1 @@
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: yasirkhan140
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist
