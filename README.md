@@ -20,6 +20,11 @@ I specialize in **React, Next.js, Node.js, Express, and MongoDB**. Passionate ab
 
 ---
 
+### 🐍 GitHub Contribution Snake  
+![Snake animation](https://github.com/yasirkhan140/yasirkhan140/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
 ### 🌱 Currently Learning  
 - C Programming  
 - PostgreSQL  
@@ -33,7 +38,8 @@ I specialize in **React, Next.js, Node.js, Express, and MongoDB**. Passionate ab
 
 ---
 
-🔍 **Fun Fact:** I love solving coding challenges and optimizing web performance! 🚀
+🔍 **Fun Fact:** I love solving coding challenges and optimizing web performance! 🚀  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
