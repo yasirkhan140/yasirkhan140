@@ -47,6 +47,3 @@ I specialize in **React, Next.js, Node.js, Express, and MongoDB**. Passionate ab
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirkhan140&show_icons=true&locale=en" alt="yasirkhan140" /></p>
-
-
