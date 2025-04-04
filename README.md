@@ -21,7 +21,8 @@ I specialize in **React, Next.js, Node.js, Express, and MongoDB**. Passionate ab
 ---
 
 ### 🐍 GitHub Contribution Snake  
-![Snake animation](https://github.com/yasirkhan140/yasirkhan140/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/yasirkhan140/yasirkhan140/output/github-contribution-grid-snake.svg)
+
 
 ---
 
